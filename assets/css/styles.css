@@ -311,7 +311,7 @@ img {
 }
 
 .home__blob-img {
-    width: 170px;
+    width: 176px;
 }
 
 .home__data {
@@ -529,13 +529,14 @@ img {
     background-color: var(--first-color);
 }
 
-.skills__html { width: 90%; }
-.skills__css { width: 80%; }
-.skills__js { width: 70%; }
-.skills__react { width: 60%; }
-.skills__node { width: 70%; }
-.skills__python { width: 60%; }
-.skills__sql { width: 70%; }
+.skills__siem { width: 70%; }
+.skills__logs { width: 65%; }
+.skills__incident { width: 60%; }
+.skills__threat { width: 55%; }
+.skills__bizdev { width: 85%; }
+.skills__crm { width: 85%; }
+.skills__credit { width: 75%; }
+.skills__sales { width: 80%; }
 
 .skills__close .skills__list {
     height: 0;
