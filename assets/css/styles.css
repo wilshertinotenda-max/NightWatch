@@ -1096,8 +1096,8 @@ img {
     }
 
     .contact__container {
-        grid-template-columns: repeat(2, 1fr);
-        align-items: initial;
+        grid-template-columns: minmax(0, 360px);
+        justify-content: center;
     }
 }
 
